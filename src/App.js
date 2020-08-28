@@ -6,10 +6,15 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-               <p>
-          Hello World 
+        <p>
+          <div>
+            <p>Coded by</p>
+            <a href="https://github.com/Elvira-D?tab=repositories">
+              {" "}
+              Elvira Di Marco{" "}
+            </a>
+          </div>
         </p>
-        
       </header>
     </div>
   );

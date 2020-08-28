@@ -7,7 +7,8 @@ import Search from "./Search";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Search />
+        <Search />
+        <App />
   </React.StrictMode>,
   document.getElementById("root")
 );
